@@ -6,8 +6,8 @@ function convertToBool(text, fault = 'true') {
 }
 
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || '', // ENTER YOUR SESSION_ID TO THIS.
-MONGODB_URI: process.env.MONGODB_URI || '', // ENTER YOUR MONGODB URL TO THIS.
+SESSION_ID: process.env.SESSION_ID || 'eDIiGIKT#XZCwTtTyKLHIhNkarYkDa8c-Gmu4bPbJaSIHgxgeSgM', // ENTER YOUR SESSION_ID TO THIS.
+MONGODB_URI: process.env.MONGODB_URI || 'mongodb+srv://nimafree:nimafree@nimafree.ae8e2.mongodb.net/', // ENTER YOUR MONGODB URL TO THIS.
 
 
 
